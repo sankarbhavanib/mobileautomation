@@ -1,0 +1,14 @@
+package com.mobile;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class DesiredCapabulities {
+
+	@Test
+	public void test() {
+		file 
+	}
+
+}
